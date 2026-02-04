@@ -73,7 +73,7 @@ yesBtn.addEventListener("click", () => {
             title: "Valentinovo 💖",
             name: "Nikola",
             message: "Hey! Your Valentine letter was accepted. 💕",
-            to_email: "bojic023@gmail.com"
+            to_email: "nikolalicaninv4@gmail.com"
         }
     ).then(() => {
         console.log("Email sent successfully!");
